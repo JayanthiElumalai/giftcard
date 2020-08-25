@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "Sebastian",
+      "password": "user123",
+      "confirmPwd": "user123",
+      "emailId": "jayanthi@gmail.com",
+      "isAdmin": "False"
+    },
+    {
+      "userName": "a",
+      "password": "b",
+      "confirmPwd": "c",
+      "emailId": "d",
+      "id": 2,
+      "isAdmin": "False"
+    },
+    {
+      "userName": "test1",
+      "password": "1",
+      "confirmPwd": "2",
+      "emailId": "3",
+      "isAdmin": "False",
+      "id": 3
+    },
+    {
+      "userName": "ab",
+      "password": "ab",
+      "confirmPwd": "1",
+      "emailId": "1",
+      "isAdmin": "False",
+      "id": 4
+    },
+    {
+      "userName": "ab",
+      "password": "admin",
+      "confirmPwd": "admin",
+      "emailId": "admingiftcard@gmail.com",
+      "isAdmin": "True",
+      "id": 5
+    },
+    {
+      "userName": "",
+      "password": "",
+      "confirmPwd": "",
+      "emailId": "",
+      "isAdmin": "False",
+      "id": 6
+    },
+    {
+      "userName": "Testing123",
+      "password": "test",
+      "confirmPwd": "test",
+      "emailId": "Jayanthi@gmail.com",
+      "isAdmin": "False",
+      "id": 7
+    },
+    {
+      "userName": "test",
+      "password": "test",
+      "confirmPwd": "test",
+      "emailId": "test@ghhgkhkjg",
+      "isAdmin": "False",
+      "id": 8
+    },
+    {
+      "userName": "asdasd",
+      "password": "jay1",
+      "confirmPwd": "jay123",
+      "emailId": "asdad",
+      "isAdmin": "False",
+      "id": 9
+    },
+    {
+      "userName": "SDASD",
+      "password": "jay",
+      "confirmPwd": "jay1",
+      "emailId": "asdasd",
+      "isAdmin": "False",
+      "id": 10
+    },
+    {
+      "userName": "SDASD",
+      "password": "jay",
+      "confirmPwd": "jay1",
+      "emailId": "asdasd",
+      "isAdmin": "False",
+      "id": 11
+    },
+    {
+      "userName": "asdasd",
+      "password": "jay",
+      "confirmPwd": "jay12",
+      "emailId": "asdasdasd",
+      "isAdmin": "False",
+      "id": 12
+    },
+    {
+      "userName": "sdfsfsdf",
+      "password": "jay",
+      "confirmPwd": "jay",
+      "emailId": "adasd",
+      "isAdmin": "False",
+      "id": 13
+    },
+    {
+      "userName": "Janani R",
+      "password": "Janani123",
+      "confirmPwd": "Janani123",
+      "emailId": "janani@gmail.com",
+      "isAdmin": "False",
+      "id": 14
+    }
+  ]
+}
