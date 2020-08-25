@@ -1,4 +1,4 @@
-# gift-card
+# blog-crud-spa
 
 ## Project setup
 ```
